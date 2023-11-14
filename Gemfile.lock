@@ -18,11 +18,11 @@ GEM
     rspec-support (3.12.1)
 
 PLATFORMS
-  x86_64-linux
+  x86_64-darwin-22
 
 DEPENDENCIES
   pg
   rspec (~> 3)
 
 BUNDLED WITH
-   2.4.21
+   2.4.19
